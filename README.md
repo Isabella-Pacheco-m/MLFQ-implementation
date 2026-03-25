@@ -93,3 +93,5 @@ B;9; 0; 1; 4; 27; 36; 1; 36
 ...
 WT=30.2; CT=39.8; RT=5.2; TAT=39.8;
 ```
+
+Link video explicativo: https://drive.google.com/drive/folders/1lZwp2gacBkzieAGSW7Uaa0Tiz5scUu0L?usp=sharing
