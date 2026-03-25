@@ -1,0 +1,7 @@
+# Test 2: Multiples procesos con misma llegada, dos colas compartidas
+# etiqueta; BT; AT; Q; Prioridad
+A;10;0;1;5
+B;9;0;1;4
+C;8;0;2;3
+D;7;0;2;2
+E;6;0;3;1

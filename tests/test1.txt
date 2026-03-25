@@ -1,0 +1,5 @@
+# Test 1: Procesos en diferentes colas con llegadas escalonadas
+# etiqueta; BT; AT; Q; Prioridad
+A;5;0;1;5
+B;3;1;2;4
+C;8;2;3;3
